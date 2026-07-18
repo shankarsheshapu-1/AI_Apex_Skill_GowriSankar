@@ -1,0 +1,1 @@
+In this project, you will build a complete Employee Analytics Dashboard using Python and SQL.You'll create a database, write SQL queries to extract insights, and use Python (Pandas, NumPy) toanalyze and summarize the data
